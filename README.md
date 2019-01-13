@@ -3,4 +3,4 @@
 
 __M1 first semester Project work__
 
-Rendering on (_.off_) file format using Opengl
+Rendering of (_.off_) file format using Opengl
